@@ -1,0 +1,42 @@
+{
+  "term": "January IAP",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry"
+    ]
+  ],
+  "legacy_uid": "b9ea26cc-6dce-0c82-1180-7d45ef00ec67",
+  "instructors": {
+    "content": [
+      "9801e3c1-6857-aa5f-94b4-071caf758d0d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b6440c4e-408c-20b5-bd98-c56b460eec97",
+    "website": "5-302-introduction-to-experimental-chemistry-january-iap-2005"
+  },
+  "course_title": "Introduction to Experimental Chemistry",
+  "hide_download": true,
+  "course_description": "5.302 is a 3-unit course intended to provide freshmen with a stimulating and enjoyable \"hands-on\" experience with chemical phenomena.\u00a0The aim of this course is to provide freshmen with an opportunity to get \"up close and personal\" with the chemical phenomena introduced in 5.111, 5.112 and 3.091. Interesting and dramatic experiments have been selected to illustrate and reinforce the concepts and principles introduced in the chemistry core lecture courses.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.  \n  \n[Legal Notice](/terms/)\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.302",
+  "course_image_thumbnail": {
+    "content": "282e070b-5a60-35d4-0b40-0cdde2457336",
+    "website": "5-302-introduction-to-experimental-chemistry-january-iap-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [],
+  "site_uid": "3bf4e154-eef1-4202-a275-e9237a77d318",
+  "site_short_id": "5.302-january-iap-2005",
+  "site_url_path": "courses/5-302-introduction-to-experimental-chemistry-january-iap-2005",
+  "title": "Course Metadata"
+}
